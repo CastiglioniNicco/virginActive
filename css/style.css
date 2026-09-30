@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+.dm-serif{
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.archivo {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titoli-rossi {
+    margin-bottom: 30px;
+}
+
+.titoli-rossi h2{
+    font-size: 250%;
+    font-weight: 200;
+}
+
+.info-rosse h2{
+    margin-bottom: 15px;
+}
+
+.loghi img{
+    width: 35px;
+    margin: 5px;
+}
